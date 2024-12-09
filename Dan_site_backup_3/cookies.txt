@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+artsone-test.sites.olt.ubc.ca	TRUE	/	FALSE	1999999999	ace-cms.prod	140404622.20480.0000
+visionarycross.org	TRUE	/	FALSE	1999999999	__tad	1733725253.2827719
+people.uleth.ca	TRUE	/	FALSE	1999999999	txp_test_cookie	1
+people.uleth.ca	TRUE	/	FALSE	1999999999	samesite	Lax
+
